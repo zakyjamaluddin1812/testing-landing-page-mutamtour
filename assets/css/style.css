@@ -9,7 +9,7 @@
   margin-top: -18px; 
   width: fit-content
 }
-@media (max-width: 768px) {
+@media (max-width: 1080px) {
   .badge-scaled h5 {
     font-size: 10pt;
     margin-bottom: 0;
